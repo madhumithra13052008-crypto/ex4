@@ -45,11 +45,11 @@ MAP.HTML
 
 <map name="mymap">
   
-  <area shape="rect" coords="10,620,50,100" href="Kolathur.html" alt="Kolathur" target="_blank">
-  <area shape="circle" coords="350,250,40" href="Perambur.html" alt="Perambur" target="_blank">
-  <area shape="rect" coords="300,600,500,700" href="Ayanavaram.html" alt="Ayanavaram" target="_blank">
-  <area shape="rect" coords="80,570,380,630" href="Spectrum The Grand Venus Mall.html" alt="Spectrum The Grand Venus Mall" target="_blank">
-  <area shape="rect" coords="100,100,300,200" href="Meridian Hospital.html"  alt="Meridian Hospital" target="_blank">
+  <area shape="circle" coords="90,286,101" href="Kolathur.html" alt="Kolathur" target="_blank">
+  <area shape="circle" coords="491,301,98" href="Perambur.html" alt="Perambur" target="_blank">
+  <area shape="rect" coords="300,702,832,812" href="Ayanavaram.html" alt="Ayanavaram" target="_blank">
+  <area shape="rect" coords="356,443,594,528" href="Spectrum The Grand Venus Mall.html" alt="Spectrum The Grand Venus Mall" target="_blank">
+  <area shape="rect" coords="156,-2,372,76" href="Meridian Hospital.html"  alt="Meridian Hospital" target="_blank">
 </map>
 
 </body>
